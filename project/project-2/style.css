@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+header {
+  background: black;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 10px;
+  margin-right: 10px;
+}
+
+.page {
+  display: none;
+  padding: 40px;
+}
+
+#home {
+  display: block;
+}
