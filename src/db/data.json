@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Apple iPhone 15" },
+    { "id": 2, "name": "Samsung Galaxy S23" },
+    { "id": 3, "name": "Sony WH-1000XM5" },
+    { "id": 4, "name": "Nintendo Switch" }
+  ]
+}
